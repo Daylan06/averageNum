@@ -17,7 +17,7 @@ public class Main {
 
 
             System.out.println("The total is " + total);
-            double average = (double) (total / c);
+            double average = (double) total / c;
 
             System.out.println("The average is " + average);
         }
